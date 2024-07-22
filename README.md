@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about SQL
 - 📫 How to reach me: c andres cano
 - 😄 Pronouns: He
-- ⚡ Fun fact: I pais for WinRAR
+- ⚡ Fun fact: I pais for WinRAR.
 -->
